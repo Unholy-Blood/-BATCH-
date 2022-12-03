@@ -20,6 +20,14 @@ echo INCORRECT=%num%, CORRECT=%ans%)
 REM {NEW_LINE}
 echo.
 
+
 PAUSE
+
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
 GOTO new
 REM [FILENAME].bat {TO RUN}
